@@ -1,0 +1,86 @@
+.home ,.about,.resume,.portfolio,.contact{
+    min-height: 100vh;
+}
+
+
+.detail-porto img{
+    height: 200px;
+    
+}
+.hi p{
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 12rem;
+    color: rgb(8, 190, 190);
+    letter-spacing: 3px;
+}
+
+.nama p{
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: -2rem;
+    color: black;
+}
+
+.nama-detail{
+    letter-spacing: 3px;
+    color: rgb(8, 190, 190)!important;
+}
+
+.status p{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: -1.5rem;
+    color: rgb(0, 0, 0);
+}
+
+.home img{
+    margin-top: 7rem;
+    border-radius: 50%;
+}
+
+.title-about p, .title-resume p, .title-porto p, .title-contact p{
+    font-size: 45px;
+    font-weight: 600;
+    padding-top: 6rem;
+    letter-spacing: 4px;
+}
+
+.title-about p{
+    color: rgb(8, 190, 190);
+}
+.title-resume{
+    color: rgb(8, 190, 190)
+}
+
+.about img{
+    border-radius: 20% 10% 35% 50% ;
+}
+
+.education p ,.skills p{
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(169, 115, 34);
+    letter-spacing: 3.5px;
+}
+
+.title-porto p{
+    color: rgb(8, 190, 190)
+}
+
+.tingkat p{
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.title-contact p{
+    color: rgb(8, 190, 190);
+}
+
+.contact-personal p ,.title-socmed p{
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    color: rgb(112, 42, 165);
+}

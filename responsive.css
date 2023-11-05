@@ -1,0 +1,19 @@
+@media screen
+    and (max-device-width: 640px) {
+    .nama p{
+        font-size: 30px;
+    }
+    .status p{
+        font-size: 20px;
+    }
+    .about p{
+        text-align: center;
+        margin-top: 2rem;
+    }
+    .q{
+        margin-top: 2rem;
+    }
+    .tools{
+        margin-left: 3rem;
+    }
+}
